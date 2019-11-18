@@ -6,9 +6,9 @@ Encabezado  nivel 2
 ### Encabezado tercer nivel
 Encabezado nivel 3
 
--Lista sin enumerar
--B
--C
+- Lista sin enumerar
+- B
+- C
 
 1. Elemento uno
 1. Elemento dos
