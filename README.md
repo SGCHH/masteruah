@@ -1,5 +1,5 @@
 # masteruah
-18.11.2019 22:25 h 
+21.11.2019 22:25 h 
 ##Encabezado de segundo nivel 
 Encabezado  nivel 2
 
@@ -18,9 +18,63 @@ Texto **negrita**
 Texto *CURSIVA*
 ~~ Texto Tachado~~
 
-
-
 [texto del enlace](http://google.com)
+
+  246  git push
+  247  git push README.md
+  248  cd ..
+  249  ls
+  250  cd
+  251  cd kk/masteruah/
+  252  ls
+  253  read Presentación
+  254  read README.md
+  255  open README.md
+  256  git config --list
+  257  git remote -v
+  258  git push origin master
+  259  git remote show origin
+  260  git push origin master
+  261  git checkout
+  262  git pull
+  263  git pull masteruah/
+  264  git log
+  265  git show origin/master
+  266  git ls-tree
+  267  git ls-tree HEAD
+  268  gitk
+  269  git push ?
+  270  git status
+  271  git log
+  272  ls
+  273  pwd
+  274  ls
+  275  cd kk/masteruah/
+  276  vim README.md
+  277  history
+  278  exit
+  279  git push
+  280  cd kk/masteruah/
+  281  git push
+  282  ls
+  283  cd masteruah/
+  284  mk textoplano
+  285  vim textoplano
+  286  ls
+  287  git push
+  288  git commit textoplano -m Primera subida
+  289  git commit textoplano -m Primera "Intento 1"
+  290  git commit textoplano -m "Intento 1"
+  291  git add .
+  292  git commit textoplano -m "Intento 1"
+  293  git log
+  294  ls
+  295  git push origin master
+  296  git log
+  297  ls
+  298  hist
+  299  history
+
 
 
  [Chucho] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fcaretas.pe%2Fwp-content%2Fuploads%2F2019%2F11%2Fperro-unicornio.jpg&imgrefurl=https%3A%2F%2Fcaretas.pe%2Fmundo%2Fperro-nace-con-cola-en-la-cara-y-conmueve-al-mundo-por-la-historia-de-su-rescate%2F&docid=9A1pv9WfHT1UEM&tbnid=YKaWwqciKIF4xM%3A&vet=10ahUKEwjRgJ_dvvTlAhWZFMAKHevuCMYQMwjVASgBMAE..i&w=640&h=400&itg=1&bih=754&biw=1536&q=perro&ved=0ahUKEwjRgJ_dvvTlAhWZFMAKHevuCMYQMwjVASgBMAE&iact=mrc&uact=8)
