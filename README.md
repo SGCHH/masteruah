@@ -15,11 +15,12 @@ Encabezado nivel 3
 1. Elemento tres
 
 Texto **negrita**
-Texto *CURSIVA*
+iTexto *CURSIVA*
 ~~ Texto Tachado~~
 
 [texto del enlace](http://google.com)
 
+Historial de instrucciones: 
   246  git push
   247  git push README.md
   248  cd ..
