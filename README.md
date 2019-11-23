@@ -20,15 +20,7 @@ iTexto *CURSIVA*
 
 [texto del enlace](http://google.com)
 
-Historial de instrucciones: 
-  246  git push
-  247  git push README.md
-  248  cd ..
-  249  ls
-  250  cd
-  251  cd kk/masteruah/
-  252  ls
-  253  read Presentación
+
   254  read README.md
   255  open README.md
   256  git config --list
@@ -48,24 +40,7 @@ Historial de instrucciones:
   270  git status
   271  git log
   272  ls
-  273  pwd
-  274  ls
-  275  cd kk/masteruah/
-  276  vim README.md
-  277  history
-  278  exit
-  279  git push
-  280  cd kk/masteruah/
-  281  git push
-  282  ls
-  283  cd masteruah/
-  284  mk textoplano
-  285  vim textoplano
-  286  ls
-  287  git push
-  288  git commit textoplano -m Primera subida
-  289  git commit textoplano -m Primera "Intento 1"
-  290  git commit textoplano -m "Intento 1"
+  2290  git commit textoplano -m "Intento 1"
   291  git add .
   292  git commit textoplano -m "Intento 1"
   293  git log
@@ -78,7 +53,6 @@ Historial de instrucciones:
 
 
 
- [Chucho] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fcaretas.pe%2Fwp-content%2Fuploads%2F2019%2F11%2Fperro-unicornio.jpg&imgrefurl=https%3A%2F%2Fcaretas.pe%2Fmundo%2Fperro-nace-con-cola-en-la-cara-y-conmueve-al-mundo-por-la-historia-de-su-rescate%2F&docid=9A1pv9WfHT1UEM&tbnid=YKaWwqciKIF4xM%3A&vet=10ahUKEwjRgJ_dvvTlAhWZFMAKHevuCMYQMwjVASgBMAE..i&w=640&h=400&itg=1&bih=754&biw=1536&q=perro&ved=0ahUKEwjRgJ_dvvTlAhWZFMAKHevuCMYQMwjVASgBMAE&iact=mrc&uact=8)
-
+ [Chucho] (https://www.google.com/imgres?imgurl=https%3A%2F%2Fcaretas.pe%2Fwp-content%2Fuploads%2F2019%2F11%2Fperro-unicornio.jpg&imgrefurl=https%3A%2F%2Fcaretas.pe%2Fmundo%2Fperro-nace-con-cola-en-la-cara-y-conmueve-al-mundo-por-la-historia-de-su-rescate%2F&docid=9A1pv9WfHT1UEM&tbnid=YKaWwqciKIF4xM%3A&vet=10ahUKEwjRgJ_dvvTlAhWZFMAKHevuCMYQMwjVASgBMAE..i&w=640&h=400&itg=1&bih=754&biw=1536&q=perro&ved=0ahUKEwjRgJ_dvvTlAhWZ
 
 
